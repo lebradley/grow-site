@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "5a86b947dd9485049fe33028",
+        "name": "cry me a river",
+        "type": "something",
+        "price": 34,
+        "instock": false,
+        "__v": 0
+    },
+    {
+        "_id": "5a86b947dd9485049fe3302b",
+        "name": "Disrupted",
+        "type": "book",
+        "price": 19,
+        "instock": true,
+        "__v": 0
+    },
+    {
+        "_id": "5a86bd65f659e30836562098",
+        "name": "My Lovely Book",
+        "type": "book",
+        "price": 19,
+        "instock": true,
+        "__v": 0
+    },
+    {
+        "_id": "5a86b947dd9485049fe3302a",
+        "name": "Ring ring ring ring ring ring ring Bananaphone",
+        "type": "games",
+        "price": 21,
+        "instock": false,
+        "__v": 0
+    },
+    {
+        "_id": "5a8d61c17db325e1691d7430",
+        "name": "Winter Olympics",
+        "type": "medal",
+        "price": 50,
+        "instock": true,
+        "__v": 0
+    }
+]

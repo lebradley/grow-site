@@ -1,0 +1,11 @@
+.Product {
+    text-align: left;
+    padding: 20px;
+    margin: 10px;
+    background-color: lightblue;
+    width: 50%;
+}
+
+.Product p {
+    color: black;
+}
