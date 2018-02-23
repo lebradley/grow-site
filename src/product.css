@@ -1,4 +1,4 @@
-.Product {
+.product {
     text-align: left;
     padding: 20px;
     margin: 10px;
@@ -6,6 +6,6 @@
     width: 50%;
 }
 
-.Product p {
+.product p {
     color: black;
 }
