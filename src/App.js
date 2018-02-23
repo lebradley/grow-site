@@ -8,7 +8,7 @@ const Products = require('./fakedata/products.json');
 
 const ProductList = Products.map((p) => 
   <div className="Product"> 
-    <Product name ={p.name} price={p.price} instock={p.instock}></Product>
+    <Product name ={p.name} price={p.price} type = {p.type} instock={p.instock}></Product>
   </div>
 );
 
